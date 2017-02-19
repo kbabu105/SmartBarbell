@@ -1,6 +1,6 @@
 # SmartBarbell
 IDEA Hacks 2017 - Finalist,
-Teammates: Robert Ursa & Edward Kim
+Teammates: Robert Ursua & Edward Kim
 
 
 Rapid prototyped device that slips onto barbells to detect 
