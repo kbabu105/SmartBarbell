@@ -1,5 +1,6 @@
 # SmartBarbell
 IDEA Hacks 2017 - Finalist
+
 Teammates: Robert Ursa & Edward Kim
 
 
